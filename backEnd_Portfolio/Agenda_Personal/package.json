@@ -1,0 +1,14 @@
+{
+  "name": "agenda_personal",
+  "version": "1.0.0",
+  "description": "BackEnd para agenda personal con control de Login",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "JLGJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
